@@ -1,9 +1,15 @@
 *{
-    background-color: blue;
+    /* background-color:white; */
 }
 h1{
     color: cyan;
 }
 img{
     width: 200px;
+}
+.Carrer{
+    color: chocolate;
+}
+.organisations{
+background-color:aquamarine;
 }

@@ -1,5 +1,7 @@
 *{
-    background-color:aliceblue; 
+    /* background-color:aliceblue;  */
+    margin:0;
+    padding:0;
 }
 h1{
     color: cyan;
@@ -53,4 +55,24 @@ width: 150px;
 .follow-me{
     color: blue;
     font-size: 50px;
+}
+#sample-text{
+    color: aqua;
+    background-color: cornflowerblue;
+    border: 5pt red solid;
+}
+.first{
+border-style: dotted;
+margin: 10px 15px;
+padding: 30px ;
+}
+/* My flex box propoerties */
+.container{
+    background-color:aqua;
+}
+.child{
+    background-color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }

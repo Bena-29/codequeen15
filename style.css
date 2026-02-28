@@ -100,8 +100,13 @@ padding: 30px ;
     display: flex;
     justify-content: center;
 }
-img{
+.myimage{
     width: 50px;
-    border-radius: 50%;
+    border-radius: 50%; 
+} 
+/* Bootstrap */
+.profile{
+    background-color:blue;
+    border-color: blue;
     
 }
